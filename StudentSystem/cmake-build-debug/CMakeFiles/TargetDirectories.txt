@@ -1,0 +1,3 @@
+B:/VisualStudioProjects/StudentSystem/cmake-build-debug/CMakeFiles/StudentSystem.dir
+B:/VisualStudioProjects/StudentSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/VisualStudioProjects/StudentSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
